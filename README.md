@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=140&lines=Sagar+Saw;Data+Analyst;Machine+Learning+Engineer&background=1A0B2E" alt="Header Banner" />
-</p>
+<div align="center" style="background: linear-gradient(135deg, #00B4DB 0%, #0083B0 40%, #6A11CB 70%, #2575FC 100%); padding: 45px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <h1 style="color: #ffffff; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 42px; margin: 0; font-weight: 800; letter-spacing: 1px; text-shadow: 2px 2px 4px rgba(0,0,0,0.4);">Sagar Saw</h1>
+  <p style="color: #E0F7FA; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 20px; margin: 10px 0 0 0; font-weight: 500; letter-spacing: 0.5px; opacity: 0.95; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Data Analyst | Machine Learning Engineer</p>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-saw-0040272a6" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
