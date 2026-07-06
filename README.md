@@ -1,6 +1,23 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/E0l0K0c.png" alt="Sagar Saw - Data Analyst | Machine Learning Engineer" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="100%">
+    <defs>
+      <linearGradient id="cyan-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#005B7F" />
+        <stop offset="30%" stop-color="#0083B0" />
+        <stop offset="70%" stop-color="#6A11CB" />
+        <stop offset="100%" stop-color="#2575FC" />
+      </linearGradient>
+    </defs>
+    <!-- Background Gradient -->
+    <rect width="850" height="200" fill="url(#cyan-purple)" rx="10" />
+    <!-- Wave effect at the bottom -->
+    <path d="M 0 160 Q 212.5 130 425 160 T 850 160 L 850 200 L 0 200 Z" fill="#ffffff" fill-opacity="0.1" />
+    <path d="M 0 175 Q 212.5 155 425 175 T 850 175 L 850 200 L 0 200 Z" fill="#ffffff" fill-opacity="0.15" />
+    <!-- Text -->
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, sans-serif" font-size="48" font-weight="800" fill="#ffffff">Sagar Saw</text>
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, sans-serif" font-size="20" font-weight="500" fill="#E0F7FA">Data Analyst | Machine Learning Engineer</text>
+  </svg>
 </p>
 
 <p align="center">
