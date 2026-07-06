@@ -54,13 +54,12 @@
 </p>
 
 <p align="center">
-  <img src="https://git-streak-stats.lecoq.io/?user=Sagar-Saw&theme=dark" alt="Sagar's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=Sagar-Saw&theme=dark" alt="Sagar's GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar-Saw&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
 ---
 
 ## 💬 Philosophy
