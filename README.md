@@ -1,6 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=140&lines=Sagar+Saw;Data+Analyst;Machine+Learning+Engineer&background=1A0B2E" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=0,2,25,30&height=150&section=header" alt="Header Banner" />
+</p>
+
+<h1 align="center">Sagar Saw</h1>
+<p align="center">
+  <strong>Data Analyst | Machine Learning Engineer</strong>
 </p>
 
 <p align="center">
