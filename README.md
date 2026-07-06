@@ -1,5 +1,6 @@
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&height=100&lines=Sagar+Saw;Data+Analyst;ML+Engineer" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=130&lines=Sagar+Saw;Data+Analyst;ML+Engineer" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -22,15 +23,26 @@
 
 ---
 
+## 🎯 Core Skills
+
+* 📊 **Data Analytics & Manipulation:** Data Cleaning, Transformation, and Exploratory Data Analysis (EDA).
+* 🤖 **Machine Learning & Deep Learning:** Predictive Modeling, Model Tuning, and addressing Overfitting/Underfitting challenges.
+* 🗣️ **NLP & Large Language Models (LLMs):** Text Processing, Sentiment Analysis, and working with GenAI frameworks.
+* 📈 **Data Visualization:** Crafting interactive business intelligence dashboards and processing transit/sales datasets.
+* 🧠 **Problem Solving:** Strong foundation in core algorithms and Data Structures (DSA).
+
+---
+
 ## 💻 Tech Stack & Tools
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
-| **Libraries & ML** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Libraries & Frameworks** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+| **Machine Learning & AI** | `Linear & Logistic Regression` `Decision Trees` `Random Forest` `Natural Language Processing (NLP)` `LLMs & Fine-tuning` `Recommendation Systems` |
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Data & BI Tools** | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA4F01.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&white) |
 
 ---
 
@@ -44,15 +56,15 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Saw&show_icons=true&theme=dark" alt="Sagar's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagar-Saw&show_icons=true&theme=dark" alt="Sagar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Saw&theme=dark" alt="Sagar's GitHub Streak" />
+  <img src="https://git-streak-stats.lecoq.io/?user=Sagar-Saw&theme=dark" alt="Sagar's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Saw&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar-Saw&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
