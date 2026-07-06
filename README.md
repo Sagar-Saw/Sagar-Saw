@@ -1,14 +1,12 @@
 <!-- HEADER BANNER -->
-<div align="center" style="background: linear-gradient(135deg, #00B4DB 0%, #0083B0 40%, #6A11CB 70%, #2575FC 100%); padding: 45px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  <h1 style="color: #ffffff; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 42px; margin: 0; font-weight: 800; letter-spacing: 1px; text-shadow: 2px 2px 4px rgba(0,0,0,0.4);">Sagar Saw</h1>
-  <p style="color: #E0F7FA; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 20px; margin: 10px 0 0 0; font-weight: 500; letter-spacing: 0.5px; opacity: 0.95; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Data Analyst | Machine Learning Engineer</p>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/E0l0K0c.png" alt="Sagar Saw - Data Analyst | Machine Learning Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-saw-0040272a6" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sagarsaw6299@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
 ---
 ## 🚀 About Me
 
