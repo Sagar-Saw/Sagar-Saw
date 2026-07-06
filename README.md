@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Sagar%20Saw&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer&descSize=20&descAlignY=62" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=140&lines=Sagar+Saw;Data+Analyst;Machine+Learning+Engineer&background=1A0B2E" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 * 🎓 IT Student passionate about data science and building real-world solutions
