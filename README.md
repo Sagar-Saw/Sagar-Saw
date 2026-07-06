@@ -1,10 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=130&lines=Sagar+Saw;Data+Analyst;ML+Engineer" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <strong>Data Analyst | Machine Learning Engineer</strong>
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Sagar%20Saw&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer&descSize=20&descAlignY=62" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -39,7 +35,6 @@
 | --- | --- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Libraries & Frameworks** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| **Machine Learning & AI** | `Linear & Logistic Regression` `Decision Trees` `Random Forest` `Natural Language Processing (NLP)` `LLMs & Fine-tuning` `Recommendation Systems` |
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Data & BI Tools** | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA4F01.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | **Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&white) |
